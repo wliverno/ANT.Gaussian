@@ -4,6 +4,7 @@ version=2.8.0
 
 mkdir -v ANT.Gaussian-$version
 mkdir -v ANT.Gaussian-$version/BLDAT
+mkdir -V ANT.Gaussian-$version/bin
 mkdir -v ANT.Gaussian-$version/doc
 mkdir -v ANT.Gaussian-$version/install
 mkdir -v ANT.Gaussian-$version/src
